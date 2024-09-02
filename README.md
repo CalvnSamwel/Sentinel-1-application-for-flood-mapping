@@ -5,6 +5,10 @@ Welcome to the Sentinel-1-application-for-flood-mapping Repository! This reposit
 
 The repository includes scripts for preprocessing Sentinel-1 SAR data, applying speckle filtering, detecting flooded areas, and visualizing the results using Google Earth Engine (GEE). This code can be used to monitor flood events and their impacts on land surfaces.
 
+
+![image](https://github.com/user-attachments/assets/8bba59c3-0c5a-498d-9a12-394b8a8dc094)
+
+
 ## Flood MApping Overview
 1. Flood Detection: This project uses Sentinel-1 SAR imagery to detect and analyze flood inundation by comparing images before and after the flood event. The workflow includes:
 2. Data Import and Filtering: Retrieve Sentinel-1 images for the specified time periods before and after the flood, filtered by VH polarization and IW mode.
@@ -32,5 +36,3 @@ This script was prepared by Calvin Samwel Swai @ Aquila Eyes Group. Special than
 
 Happy flood Mapping! 🌊
 
-
-![image](https://github.com/user-attachments/assets/8bba59c3-0c5a-498d-9a12-394b8a8dc094)
